@@ -1,7 +1,3 @@
-<img width="2880" height="1638" alt="expenses" src="https://github.com/user-attachments/assets/37c70fe1-1d31-4593-861a-9b6af88d4574" />
-<img width="2862" height="1632" alt="dashboard" src="https://github.com/user-attachments/assets/4d044dd3-c12a-416a-ac0a-ec7e257bf6b2" />
-<img width="2878" height="1624" alt="budget" src="https://github.com/user-attachments/assets/b60e8e51-8eaa-490b-84d0-2c3c85de2db1" />
-<img width="2880" height="1628" alt="ai-coach" src="https://github.com/user-attachments/assets/188fd7ef-a133-4548-bd92-dd4c679fcbcb" />
 # PennyPilot 💸
 ### AI-Powered Student Budget Tracker
 
@@ -229,17 +225,10 @@ pennypilot/
 ---
 
 ## Screenshots
-
-| Dashboard | Expenses |
-|-----------|----------|
-| ![Dashboard](public/images/screenshots/dashboard.png) | ![Expenses](public/images/screenshots/expenses.png) |
-
-| Budget | AI Coach |
-|--------|----------|
-| ![Budget](public/images/screenshots/budget.png) | ![AI Coach](public/images/screenshots/ai-coach.png) |
-
----
-
+<img width="288" height="1638" alt="expenses" src="https://github.com/user-attachments/assets/37c70fe1-1d31-4593-861a-9b6af88d4574" />
+<img width="286" height="1632" alt="dashboard" src="https://github.com/user-attachments/assets/4d044dd3-c12a-416a-ac0a-ec7e257bf6b2" />
+<img width="287" height="1624" alt="budget" src="https://github.com/user-attachments/assets/b60e8e51-8eaa-490b-84d0-2c3c85de2db1" />
+<img width="288" height="1628" alt="ai-coach" src="https://github.com/user-attachments/assets/188fd7ef-a133-4548-bd92-dd4c679fcbcb" />
 ## Author
 
 **Tauedea Arehui Gabi**
